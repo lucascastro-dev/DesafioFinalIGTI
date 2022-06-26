@@ -6,7 +6,7 @@ public class Funcionario {
 	private Double descontoInss;
 	private Double descontoIrrf;
 	private Double salarioLiquido;
-	
+
 	public Funcionario () {
 	}
 
@@ -58,5 +58,5 @@ public class Funcionario {
 	public void setSalarioLiquido(Double salarioLiquido) {
 		this.salarioLiquido = salarioLiquido;
 	}
-	
+
 }
